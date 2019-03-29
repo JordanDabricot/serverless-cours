@@ -1,0 +1,16 @@
+{
+  "name": "serverless-cours",
+  "description": "Project for insta",
+  "version": "1.0.0",
+  "author": "Jordan Dabricot",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.6.3",
+    "uuid": "^2.0.3"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.7.9",
+    "serverless-dynamodb-local": "^0.2.36",
+    "serverless-offline": "^3.8.3"
+  }
+}
